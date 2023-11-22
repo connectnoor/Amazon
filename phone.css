@@ -1,0 +1,5 @@
+@media only screen and (width :800px) {
+    .box{
+        background-color: brown;
+    }
+}
